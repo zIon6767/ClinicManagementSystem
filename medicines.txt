@@ -1,0 +1,6 @@
+PCM|Paracetamol 500mg|200|0.5|Analgesic
+AMX|Amoxicillin 250mg|150|1.2|Antibiotic
+IBP|Ibuprofen 400mg|100|0.8|Anti-inflammatory
+ORS|ORS Sachets|80|1.5|Electrolyte
+VTB|Vitamin B Complex|300|0.3|Supplement
+AVN|Atorvastin|1|10|Statins

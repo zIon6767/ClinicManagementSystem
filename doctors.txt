@@ -1,0 +1,3 @@
+D0001|Ahmad Faiz|General Practice|+60 12-111 2222|80|1
+D0002|Priya Nair|Cardiology|+60 12-333 4444|150|1
+D0003|Lee Chun Wai|Pediatrics|+60 12-555 6666|100|1
